@@ -8,5 +8,3 @@ const jin = 'jin'
 const jin = 'jin'
 const jin = 'jin'
 const jin = 'jin'
-
-console.log(isString())
